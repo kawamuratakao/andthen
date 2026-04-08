@@ -1,0 +1,154 @@
+{
+  "slug": "the-dancing-girl",
+  "title_ja": "舞姫",
+  "title_en": "The Dancing Girl",
+  "page_title": "舞姫 — The Dancing Girl | 対訳歌詞",
+  "kicker": "エリスの夜に寄せて",
+  "song_url": "https://suno.com/song/27c38892-0187-4442-807b-47fd40384750",
+  "subtitle_html": "英語の原詞と、日本語訳を対訳形式で並べたページです。訳文は、<em>森鴎外『舞姫』</em> のエリスが歌っているという設定を踏まえ、彼女のかすかな幸福、見捨てられる不安、そしてそれでもなお名を呼ばれたい切実さが、ひとつの歌として立ち上がるように整えています。作中の時代にはそぐわない語も含まれますが、それもまた、後の時代から差し込む淡い光として受け止められるようにしました。",
+  "note_html": "章見出しや歌唱・演奏の指示も、日本語で読めるように訳しています。そのため、歌の流れと感情の高まりが、そのまま自然に伝わる構成です。とくに「誰かの物語の中の踊る女」から「今はわたしの夜」へと移る橋の部分が、エリスの心の奥にある、かすかな誇りと哀しみを帯びるようにしています。",
+  "song_link_note": "タイトルからも楽曲ページへ移動できます",
+  "toc": [
+    { "id": "intro", "label": "導入" },
+    { "id": "verse1", "label": "第1節" },
+    { "id": "prechorus1", "label": "前サビ" },
+    { "id": "chorus1", "label": "サビ" },
+    { "id": "postchorus", "label": "後サビ" },
+    { "id": "verse2", "label": "第2節" },
+    { "id": "prechorus2", "label": "前サビ 2" },
+    { "id": "chorus2", "label": "サビ 2" },
+    { "id": "instrumental-break", "label": "間奏" },
+    { "id": "bridge", "label": "ブリッジ" },
+    { "id": "final-chorus", "label": "最後のサビ" },
+    { "id": "outro", "label": "終わり" }
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "title": "導入",
+      "mood": "静かに、ガラスを打つ雨の気配",
+      "rows": [
+        {
+          "original": "Velvet rain on glass—夜の匂い\nA quiet neon hum, 私の名前は風に消える\nHold me in the static, 抱きしめて",
+          "translation": "ガラスを打つビロードのような雨――夜の匂い\nひそかなネオンのうなりの中で、私の名は風に消えてゆく\nこのざらつく静けさの中で、抱きしめて"
+        }
+      ]
+    },
+    {
+      "id": "verse1",
+      "title": "第1節",
+      "mood": "やわらかく、淡い痛みを帯びて",
+      "rows": [
+        {
+          "original": "You traced a future on my wrist,\n薄い光—やさしくて痛い\nName me “safe,” then let me drift,\nくちづけて、言葉はいらない\nBetween the tram bells and the tide,\nI learned to breathe without arrival\nI bloom in grayscale survival",
+          "translation": "あなたは私の手首に、未来の線をそっとなぞった\n薄い光――やさしいのに痛い\n「大丈夫」と私を名づけて、それから漂うままにさせた\nくちづけて、言葉はいらない\n市電の鐘の音と潮の気配のあいだで\n私は、たどり着けないまま息をすることを覚えた\n灰色の生に咲きながら、私は今日まで生きのびてきた"
+        }
+      ]
+    },
+    {
+      "id": "prechorus1",
+      "title": "前サビ",
+      "mood": "息をひそめるように",
+      "rows": [
+        {
+          "original": "If I turn, will the night remember me?\nこのまま—消えてもいい？\nYour coat, a quiet theater seat,\nmy pulse—拍手みたいに小さく",
+          "translation": "もし私がふり向いたら、夜はまだ私を覚えていてくれるかしら\nこのまま――消えてしまってもいいの？\nあなたの外套は、静かな劇場の座席みたいで\n私の鼓動は――拍手のように小さく鳴っている"
+        }
+      ]
+    },
+    {
+      "id": "chorus1",
+      "title": "サビ",
+      "mood": "ファルセットがふくらみ、劇的に",
+      "rows": [
+        {
+          "original": "Love me softly / 抱きしめて\nDon’t explain / ただそばにいて\nI am the ghost of a brighter street,\n踊る影—わたしのすべて\nKiss me slowly / くちづけて\nSay my real name / ほんとの名前で\nIf I break, let the pieces sing,\n泣きながら—舞うだけ",
+          "translation": "やさしく愛して / 抱きしめて\n何も説明しないで / ただそばにいて\n私は、もっと明るい街路の亡霊\n踊る影――それが私のすべて\nゆっくりくちづけて / くちづけて\nほんとうの名で呼んで / ほんとの名前で\nもし私がこわれるなら、その破片に歌わせて\n泣きながら――ただ舞ってゆく"
+        }
+      ]
+    },
+    {
+      "id": "postchorus",
+      "title": "後サビ",
+      "mood": "ささやくように",
+      "rows": [
+        {
+          "original": "Stay—いてね\nStay—いてね\nNight city, teach me how to fade—ゆっくり",
+          "translation": "いて――いてね\nいて――いてね\n夜の街よ、どうすれば消えてゆけるのか教えて――ゆっくりと"
+        }
+      ]
+    },
+    {
+      "id": "verse2",
+      "title": "第2節",
+      "mood": "冷えた光の中で、静かに深まる",
+      "rows": [
+        {
+          "original": "I held a room like holding breath,\n鏡越しの空—冷たい青\nYou wrote a promise, paper-thin,\n破れそうな夢、でも抱いて\nI am a country made of trains,\nleaving before they ever arrive\nあなたの手、遠い灯台\nCall me back with quiet light",
+          "translation": "私はひとつの部屋を、息を止めるように抱いていた\n鏡越しの空――冷たい青\nあなたは紙のように薄い約束を書いた\n破れそうな夢、それでも抱いたままで\n私は列車ばかりでできたひとつの国\n着く前に、もう去ってゆくばかり\nあなたの手は、遠い灯台\n静かな光で、私を呼び戻して"
+        }
+      ]
+    },
+    {
+      "id": "prechorus2",
+      "title": "前サビ 2",
+      "mood": "祈るように、時へ手をのばす",
+      "rows": [
+        {
+          "original": "If I kneel to the passing hours,\n時よ、止まって—一秒だけ\nWill you anchor my unraveling,\n薄紅の糸で",
+          "translation": "過ぎてゆく時の前に、私がひざまずいたなら\n時よ、止まって――一秒だけ\nほどけてゆく私を、あなたはつなぎとめてくれるの\nうす紅の糸で"
+        }
+      ]
+    },
+    {
+      "id": "chorus2",
+      "title": "サビ 2",
+      "mood": "より高く、涙を含んだ声で",
+      "rows": [
+        {
+          "original": "Love me softly / 抱きしめて\nDon’t explain / ただそばにいて\nI am the hush between the strings,\n胸の奥—震えてる\nKiss me slowly / くちづけて\nSay it true / 嘘はいらない\nIf I fall, let the river hold,\n泣きながら—溶けてゆく",
+          "translation": "やさしく愛して / 抱きしめて\n何も説明しないで / ただそばにいて\n私は、弦と弦のあいだに宿る静けさ\n胸の奥――震えている\nゆっくりくちづけて / くちづけて\nほんとうを言って / 嘘はいらない\nもし私が落ちるなら、川に抱きとめさせて\n泣きながら――溶けてゆく"
+        }
+      ]
+    },
+    {
+      "id": "instrumental-break",
+      "title": "間奏",
+      "mood": "三十二小節、歌なし",
+      "instrumental": "深いサブベースのうねりがサイドチェインの呼吸をともなってふくらみ、バリトン・ギターのオスティナートが低く続く。アナログのパッドはゆっくり花開き、遠くで弦のトレモロがかすかに震える。やがてテープ・ヒスのざらつきが立ちのぼり、ひと息つくように静かに引いてゆく。"
+    },
+    {
+      "id": "bridge",
+      "title": "ブリッジ",
+      "mood": "語るようなささやきから、かすかに開いてゆく",
+      "rows": [
+        {
+          "original": "I was the dancing girl in someone’s story,\nでも今は—わたしの夜\nNot a lesson, not a warning,\nただ—生きてる\n名前を呼んで、優しく\nCall me home without a door",
+          "translation": "私は、誰かの物語の中の踊る女だった\nでも今は――私の夜\n教訓でもなく、戒めでもなく\nただ――生きている\n名前を呼んで、やさしく\n扉のない家へ帰るように、私を呼んで"
+        }
+      ]
+    },
+    {
+      "id": "final-chorus",
+      "title": "最後のサビ",
+      "mood": "全体で大きく、劇的に。『kiss me』でファルセットが持ち上がる",
+      "rows": [
+        {
+          "original": "Love me softly / 抱きしめて\nDon’t explain / ただそばにいて\nI am the echo in the wings,\n舞台裏—光の粉\nKiss me slowly / くちづけて\nSay my real name / ほんとの名前で\nWhen I fade, let the reverb hold,\n余韻だけ—残して",
+          "translation": "やさしく愛して / 抱きしめて\n何も説明しないで / ただそばにいて\n私は、袖幕のあたりに残るこだま\n舞台裏――光の粉\nゆっくりくちづけて / くちづけて\nほんとうの名で呼んで / ほんとの名前で\n私が薄れてゆくときは、残響に抱かせて\n余韻だけ――残して"
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "title": "終わり",
+      "mood": "ささやくように、楽器が減衰してゆく",
+      "rows": [
+        {
+          "original": "Stay—いてね…いてね…\nNeon hush—静かに\n[ end ]",
+          "translation": "いて――いてね……いてね……\nネオンの静けさ――静かに\n［終］"
+        }
+      ]
+    }
+  ]
+}
