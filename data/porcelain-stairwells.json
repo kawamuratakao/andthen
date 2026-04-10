@@ -1,0 +1,118 @@
+{
+  "slug": "porcelain-stairwells",
+  "title_ja": "磁器の階段",
+  "title_en": "Porcelain Stairwells",
+  "page_title": "磁器の階段 — Porcelain Stairwells | 対訳歌詞",
+  "kicker": "壊れ方まで静かな夜",
+  "song_url": "https://suno.com/song/69b0da31-17ce-4a1d-8218-d049cbd5f9a3",
+  "subtitle_html": "英語の原詞と、日本語訳を対訳形式で並べたページです。訳文は、何も決定的には言わないまま、それでも壊れかけたものの輪郭だけが静かに残ってしまう夜を、ガラス、磁器、階段、蝶番といった冷たい手ざわりの中に置き直すように整えています。ここでは崩壊は劇的ではなく、むしろ音を立てないことそのものが痛みになってゆきます。",
+  "note_html": "章見出しや歌唱・演奏の指示も、日本語で読めるように訳しています。そのため、歌の流れと、感情がきしみながらも崩れずに持ちこたえようとする感じが、そのまま自然に伝わる構成です。とくに「やさしく壊れて」「ここで終わりでも」「私たちが上らなかった階段を残響が滴ってゆく」という線が、別れを受け入れる声の静かな美しさとして響くようにしています。",
+  "song_link_note": "タイトルからも楽曲ページへ移動できます",
+  "toc": [
+    { "id": "intro", "label": "導入" },
+    { "id": "verse1", "label": "第1節" },
+    { "id": "prechorus", "label": "前サビ" },
+    { "id": "chorus1", "label": "サビ" },
+    { "id": "instrumental-break", "label": "間奏" },
+    { "id": "verse2", "label": "第2節" },
+    { "id": "bridge", "label": "ブリッジ" },
+    { "id": "chorus2", "label": "サビ 2" },
+    { "id": "outro", "label": "終わり" }
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "title": "導入",
+      "mood": "ピアノの単音が鳴り、低いサブベースが静かにふくらむ",
+      "rows": [
+        {
+          "original": "[intro: A single piano note rings; low sub-bass blooms, a hush of air like velvet curtains moving.]",
+          "translation": "【導入：ピアノの単音がひとつ鳴る。低いサブベースがふくらみ、ビロードの幕が揺れるような空気の静けさが満ちる。】"
+        }
+      ]
+    },
+    {
+      "id": "verse1",
+      "title": "第1節",
+      "mood": "低く親密に、床板の近くでささやくように",
+      "rows": [
+        {
+          "original": "You pour me quiet like a secret glass,\nno names, no promises, just the shine on my wrist.\n遅い時間だね\nand your coat knows the hallway by heart.\nI keep my voice near the floorboards—soft,\nso nothing rattles but my pulse.",
+          "translation": "あなたは私に静けさを注ぐ、秘密のグラスみたいに。\n名前もなく、約束もなく、ただ手首の上に光だけがある。\n遅い時間だね。\nそしてあなたのコートは、その廊下をもう覚えてしまっている。\n私は声を床板の近くにとどめておく――やわらかく、低く。\n揺れるのが鼓動だけであるように。"
+        }
+      ]
+    },
+    {
+      "id": "prechorus",
+      "title": "前サビ",
+      "mood": "ひそやかに、冷えたものの輪郭をなぞるように",
+      "rows": [
+        {
+          "original": "ここでは何も言わないで\nLet the cold cup sweat on the table.\nI memorize the shape of your silence\nthe way storms memorize windows.",
+          "translation": "ここでは何も言わないで。\n冷たいカップが、卓の上で静かに汗ばむままにして。\n私はあなたの沈黙のかたちを覚えこむ。\n嵐が窓を覚えこむ、その覚え方で。"
+        }
+      ]
+    },
+    {
+      "id": "chorus1",
+      "title": "サビ",
+      "mood": "細く持ち上がるファルセット、触れれば消えそうに",
+      "rows": [
+        {
+          "original": "If I break, let it be gentle—thin as glass,\n泣いてもいい？\nFalsetto climbs, then slips—please don’t catch it.",
+          "translation": "もし壊れるなら、やさしく壊れさせて――ガラスみたいに薄く。\n泣いてもいい？\nファルセットはのぼって、それからすべる――どうか受け止めないで。"
+        }
+      ]
+    },
+    {
+      "id": "instrumental-break",
+      "title": "間奏",
+      "mood": "歌なし、低い打撃音とギターのうねりが遠ざかる",
+      "instrumental": "深いサブの一撃が沈み、ギターのうねりが広がる。少しずれたシンセのアルペジオが短く立ち上がっては溶け、遠いタムの転がりがひと息つくように近づき、また静かに退いてゆく。"
+    },
+    {
+      "id": "verse2",
+      "title": "第2節",
+      "mood": "こぼさないように、息の間に折りたたむように",
+      "rows": [
+        {
+          "original": "Your ring leaves a pale crescent on the table,\n忘れたふり stays between the breaths.\nI fold my smile into a small black purse\nand wear it like perfume—close, invisible,\nso careful the night won’t spill.",
+          "translation": "あなたの指輪が、卓の上に淡い三日月を残してゆく。\n忘れたふりが、呼吸と呼吸のあいだに居座っている。\n私は笑顔を小さな黒いハンドバッグに折りたたみ、\nそれを香水みたいに身につける――近く、見えないままに。\n夜がこぼれないよう、あまりにも慎重に。"
+        }
+      ]
+    },
+    {
+      "id": "bridge",
+      "title": "ブリッジ",
+      "mood": "静かな諦めが、蝶番の音ひとつに集まる",
+      "rows": [
+        {
+          "original": "もう帰らなきゃね\nYour shadow steps out of your body.\nI nod like a saint of small disasters,\nchoosing the door with the quieter hinge.",
+          "translation": "もう帰らなきゃね。\nあなたの影が、あなたの体から先に歩き出す。\n私は小さな災いの聖人みたいにうなずいて、\nより静かな蝶番のついた扉を選ぶ。"
+        }
+      ]
+    },
+    {
+      "id": "chorus2",
+      "title": "サビ 2",
+      "mood": "終わりを受け入れながら、なお細い光を保って",
+      "rows": [
+        {
+          "original": "If I break, let it be silent—porcelain snow,\nここで終わりでも\nI’ll sing through my teeth, a thin bright thread,\n約束は要らない\nLet the echo drip down the stairs we didn’t climb.",
+          "translation": "もし壊れるなら、音もなく壊れさせて――磁器の雪みたいに。\nここで終わりでも。\n私は歯のあいだから歌う、細く明るい糸のように。\n約束は要らない。\n私たちが上らなかった階段を、残響が滴ってゆけばいい。"
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "title": "終わり",
+      "mood": "囁きがマイクの近くに残り、低い和音と残響が静けさへ沈む",
+      "rows": [
+        {
+          "original": "[outro: Whispered breath close to mic; piano holds a last low chord; sub-bass exhales under it; reverb tail lingers into hush, no hard cut.]\n\n[end]",
+          "translation": "【終わり：囁く息がマイクのすぐ近くに残る。ピアノは最後の低い和音を保ち、その下でサブベースが静かに息を吐く。残響の尾だけが静けさへ長く溶けてゆき、ぶつりとは切れない。】\n\n【終】"
+        }
+      ]
+    }
+  ]
+}
