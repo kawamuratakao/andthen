@@ -1,0 +1,146 @@
+{
+  "slug": "where-the-tide-remembers-us",
+  "title_ja": "潮が私たちを憶えている場所",
+  "title_en": "Where The Tide Remembers Us",
+  "page_title": "潮が私たちを憶えている場所 — Where The Tide Remembers Us | 対訳歌詞",
+  "kicker": "行き着くためではなく、戻ってゆくための波",
+  "song_url": "https://suno.com/song/a3a07823-5181-4a76-8328-d7fc476bd77e",
+  "subtitle_html": "英語の原詞と、日本語訳を対訳形式で並べたページです。訳文は、来ては去り、去ってはまた戻る波の反復の中に、人の生や記憶や憧れまでも静かに重ねてゆくように整えています。ここで歌われるのは出来事というより、どこから来て、どこへ戻ろうとしているのかをたえず問い返す、海のような思索そのものです。",
+  "note_html": "章見出しや演奏の指示も、日本語で読めるように訳しています。そのため、長い沈黙と反復するモティーフが、そのまま自然に伝わる構成です。とくに「coming—going」の往還と、「私たちは波なのか、岸なのか」という問いが、前へ進むためではなく、どこかへ戻ってゆく感覚として響くようにしています。",
+  "song_link_note": "曲リンクはあとで追加できます",
+  "toc": [
+    { "id": "intro", "label": "導入" },
+    { "id": "verse1", "label": "第1節" },
+    { "id": "instrumental1", "label": "間奏 1" },
+    { "id": "verse2", "label": "第2節" },
+    { "id": "instrumental2", "label": "間奏 2" },
+    { "id": "refrain1", "label": "反復句" },
+    { "id": "instrumental3", "label": "間奏 3" },
+    { "id": "verse3", "label": "第3節" },
+    { "id": "instrumental4", "label": "間奏 4" },
+    { "id": "verse4", "label": "第4節" },
+    { "id": "instrumental5", "label": "間奏 5" },
+    { "id": "refrain2", "label": "反復句 2" },
+    { "id": "outro", "label": "終わり" }
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "title": "導入",
+      "mood": "ピアノと弱音のヴァイオリンが低い海辺の線をなぞるように",
+      "rows": [
+        {
+          "original": "[intro: piano and muted violin trace a low shoreline; air noise; almost-stillness]",
+          "translation": "【導入：ピアノと弱音のヴァイオリンが、低い海辺の輪郭をなぞる。空気のざらつきがかすかに混じり、ほとんど静止に近い。】"
+        }
+      ]
+    },
+    {
+      "id": "verse1",
+      "title": "第1節",
+      "mood": "ほとんど囁きのまま、波が名を覚えるように",
+      "rows": [
+        {
+          "original": "slow…   (breath)\nthe tide learns my name",
+          "translation": "ゆっくり……　（息）\n潮が、私の名を覚えてゆく"
+        }
+      ]
+    },
+    {
+      "id": "instrumental1",
+      "title": "間奏 1",
+      "mood": "長い沈黙、ピアノが保たれ、弓だけがかすかに震える",
+      "instrumental": "長い沈黙。ピアノは余韻を保ち、弓はほとんどヴィブラートなしでかすかに震える。"
+    },
+    {
+      "id": "verse2",
+      "title": "第2節",
+      "mood": "石と泡のあいだに、人の営みを置くように",
+      "rows": [
+        {
+          "original": "we build / we fade\nlike foam on stone",
+          "translation": "私たちは築き / 私たちは薄れてゆく\n石の上の泡みたいに"
+        }
+      ]
+    },
+    {
+      "id": "instrumental2",
+      "title": "間奏 2",
+      "mood": "沈黙が少し伸び、モティーフがさらに弱く戻る",
+      "instrumental": "沈黙はさらに長くなり、モティーフがもっと静かに戻ってくる。"
+    },
+    {
+      "id": "refrain1",
+      "title": "反復句",
+      "mood": "半ば歌い、半ば吐息のように",
+      "rows": [
+        {
+          "original": "coming—going—coming—going—\n(the sea repeats us)",
+          "translation": "来る――去る――来る――去る――\n（海が私たちを繰り返している）"
+        }
+      ]
+    },
+    {
+      "id": "instrumental3",
+      "title": "間奏 3",
+      "mood": "ヴァイオリンの倍音が浮かび、ピアノは空白を残す",
+      "instrumental": "ヴァイオリンの倍音が宙に浮かび、ピアノは広い空白を残す。"
+    },
+    {
+      "id": "verse3",
+      "title": "第3節",
+      "mood": "出発点を思い出そうとして、なお闇の温度にとどまるように",
+      "rows": [
+        {
+          "original": "where did we start?\na dark warm hush",
+          "translation": "私たちはどこから始まったのだろう？\nあたたかく暗い静けさから"
+        }
+      ]
+    },
+    {
+      "id": "instrumental4",
+      "title": "間奏 4",
+      "mood": "とても長い休止、遠い部屋の気配だけが残る",
+      "instrumental": "とても長い休止。遠い部屋の気配だけが残る。"
+    },
+    {
+      "id": "verse4",
+      "title": "第4節",
+      "mood": "向かうのではなく、漂いながら戻る場所を問うように",
+      "rows": [
+        {
+          "original": "where do we long\nto drift back to?",
+          "translation": "私たちはどこへ戻りたいと\n漂いながら願っているのだろう？"
+        }
+      ]
+    },
+    {
+      "id": "instrumental5",
+      "title": "間奏 5",
+      "mood": "モティーフがさらに遅く戻り、ペダルの気配だけがかすかに聞こえる",
+      "instrumental": "モティーフがさらに遅く戻り、ペダルの気配だけがかすかに聞こえる。"
+    },
+    {
+      "id": "refrain2",
+      "title": "反復句 2",
+      "mood": "前よりさらに弱く、問いだけを残すように",
+      "rows": [
+        {
+          "original": "coming—going—coming—going—\nare we the wave,\nor the shore?",
+          "translation": "来る――去る――来る――去る――\n私たちは波なのだろうか、\nそれとも岸なのだろうか？"
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "title": "終わり",
+      "mood": "ピアノが単音までやせてゆき、ヴァイオリンが沈みながら静けさへ消える",
+      "rows": [
+        {
+          "original": "[outro: piano thins to single notes; violin descends and fades into silence]\n[end]",
+          "translation": "【終わり：ピアノは単音だけにやせてゆき、ヴァイオリンは下降しながら静けさへ溶けて消える。】\n【終】"
+        }
+      ]
+    }
+  ]
+}
